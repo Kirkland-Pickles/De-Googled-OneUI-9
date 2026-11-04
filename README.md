@@ -1,4 +1,4 @@
-# De-Googled oneui 9 (Canta Presets)
+# De-bloat oneui 9 (Canta Presets)
 
 Canta presets for removing google services, samsung services, general bloatware, tracking components, and other unnecessary system packages from oneui 9.
 
