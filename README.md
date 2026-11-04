@@ -47,9 +47,6 @@ Back up your current Canta configuration before applying the preset if you have 
 
 The Heavy preset attempts to de-google and de-samsung your device. Some stuff will stop working.
 
-- Google Play Services
-- Play Store
-- Galaxy Store
 - Samsung Pass (use a better password manager)
 - Bixby (use a less privacy-invasive assistant)
 - Link to Windows and samsung cross-device features (these are privacy nightmares)
