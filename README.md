@@ -6,9 +6,9 @@ Only attempts to remove System packages. does not touch packages that can be uni
 The goal is to remove as much bloat as possible without ruining the main functionality of the phone. 
 ## Presets
 
-- [Heavy: 88 packages](preset-heavy.json) - strongest, removes most bloat, google/samsung stuff etc
-- [Medium-Heavy: 81 packages](preset-Medium-heavy.json) - like heavy but adds back app stores, gmail & youtube & play services
-- [Medium: 69 packages](preset-Medium.json) - like med-heavy but adds back bixby, google, google assistant & samsung cloud
+- [Heavy: 98 packages](preset-heavy.json) - strongest, removes most bloat, google/samsung stuff etc
+- [Medium-Heavy: 90 packages](preset-Medium-heavy.json) - like heavy but adds back app stores, gmail & youtube & play services
+- [Medium: 77 packages](preset-Medium.json) - like med-heavy but adds back bixby, google, google assistant & samsung cloud
 
 ## Compatibility
 
